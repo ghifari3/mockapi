@@ -1,0 +1,86 @@
+{
+  "data_product": [
+    {
+      "name": "Licensed Steel Chicken",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "main_image": "https://lzd-img-global.slatic.net/g/p/02c2e1c1978dbe97819952f7d2ef52d0.jpg_2200x2200q80.jpg_.webp",
+      "price": "370.000",
+      "images": [
+        "https://cf.shopee.co.id/file/989f7de4f7300e4f5b1a49ab407195c9",
+        "https://cf.shopee.com.co/file/18e564fa5ca87cc8e8adab1fdd931efa",
+        "https://cf.shopee.co.id/file/4ffc521e651c7088127a958aad8a8436"
+      ],
+      "variant": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "name": "Tasty Steel Bike",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "main_image": "https://cf.shopee.co.id/file/a0b09cae9a39dfc6d5425bd026b2c57f",
+      "price": "724.000",
+      "images": [
+        "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//89/MTA-51351452/polygon_polygon_rogue_sepeda_bmx_anak_-20_inch-_full01_izbiy0pk.jpg",
+        "https://cf.shopee.co.id/file/ef09573a762ce347f3677d75c6c44281",
+        "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/1/22/eaec9cf8-89cc-44ad-a7f8-1060291f317c.png"
+      ],
+      "variant": [
+        "DW",
+        "RM",
+        "AN"
+      ]
+    },
+    {
+      "name": "Awesome Bronze Hat",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "main_image": "https://lzd-img-global.slatic.net/g/p/0d3751038ba93ecef7cdc4516c0ab696.jpg_720x720q80.jpg_.webp",
+      "price": "227.000",
+      "images": [
+        "https://my-test-11.slatic.net/p/c47ad91e0f4e2e9418c2a63b3abb0337.jpg",
+        "https://image.shutterstock.com/image-photo/red-baseball-cap-four-different-260nw-1440530714.jpg",
+        "https://thumbs.dreamstime.com/z/bright-red-baseball-cap-mock-up-set-different-angles-isolated-white-background-front-side-back-view-colorful-hat-165951712.jpg"
+      ],
+      "variant": [
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "name": "Fantastic Plastic Ball",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "main_image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/4/24/8198ea54-097a-4712-9335-7855afbd9121.jpg",
+      "price": "552.000",
+      "images": [
+        "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/2/6/ce3825e4-dadb-432d-be12-5caa8fbfbf82.png",
+        "https://filebroker-cdn.lazada.co.id/kf/Scd976d75045645d49d80e412d7f34296q.jpg",
+        "https://www.kibrispdr.org/data/22/bola-plastik-besar-11.jpg"
+      ],
+      "variant": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "name": "Oriental Fresh Table",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "main_image": "https://gabe.co.id/wp-content/uploads/2016/11/ID08241_default.jpg",
+      "price": "7.410.000",
+      "images": [
+        "https://gabe.co.id/wp-content/uploads/2016/08/ID08029_ID08029-CONSOLE-CHINESE-STYLE-2-DRAWERS_2.jpg",
+        "https://i.pinimg.com/originals/90/7d/99/907d99dba1e39288fd060115c666c375.jpg",
+        "https://s4.bukalapak.com/img/926533076/large/Meja_console_CC003.jpg"
+      ],
+      "variant": [
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ]
+}
